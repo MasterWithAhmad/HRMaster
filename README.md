@@ -32,8 +32,11 @@ Here are some screenshots showcasing the application's features:
 - **Employee Registration**  
   ![Employee Registration](HRMaster/screenshots/employee_registration.png)
 
-- **Leave Requests**  
-  ![Leave Requests](HRMaster/screenshots/leave_requests.png)
+- **Department Management**  
+  ![Department Management](HRMaster/screenshots/department_list.png)
+
+- **Employee List**  
+  ![Employee List](HRMaster/screenshots/employee_list.png)
 
 ## Technologies Used
 - **C#**
