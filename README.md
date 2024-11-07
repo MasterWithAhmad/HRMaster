@@ -1,5 +1,3 @@
-Here is the README in a structured Markdown format:
-
 # HRMaster
 
 ## Description
