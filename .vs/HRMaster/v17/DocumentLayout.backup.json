@@ -1,0 +1,90 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Ahmad\\Downloads\\WinFormsProjects\\HRMaster\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{829DC584-EC8C-4595-B13F-C280769D5E2F}|HRMaster\\HRMaster.csproj|c:\\users\\ahmad\\downloads\\winformsprojects\\hrmaster\\hrmaster\\dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{829DC584-EC8C-4595-B13F-C280769D5E2F}|HRMaster\\HRMaster.csproj|solutionrelative:hrmaster\\dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{829DC584-EC8C-4595-B13F-C280769D5E2F}|HRMaster\\HRMaster.csproj|C:\\Users\\Ahmad\\Downloads\\WinFormsProjects\\HRMaster\\HRMaster\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{829DC584-EC8C-4595-B13F-C280769D5E2F}|HRMaster\\HRMaster.csproj|solutionrelative:HRMaster\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{829DC584-EC8C-4595-B13F-C280769D5E2F}|HRMaster\\HRMaster.csproj|C:\\Users\\Ahmad\\Downloads\\WinFormsProjects\\HRMaster\\HRMaster\\Dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{829DC584-EC8C-4595-B13F-C280769D5E2F}|HRMaster\\HRMaster.csproj|solutionrelative:HRMaster\\Dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{829DC584-EC8C-4595-B13F-C280769D5E2F}|HRMaster\\HRMaster.csproj|c:\\users\\ahmad\\downloads\\winformsprojects\\hrmaster\\hrmaster\\departmentlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{829DC584-EC8C-4595-B13F-C280769D5E2F}|HRMaster\\HRMaster.csproj|solutionrelative:hrmaster\\departmentlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DepartmentList.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Ahmad\\Downloads\\WinFormsProjects\\HRMaster\\HRMaster\\DepartmentList.cs",
+              "RelativeDocumentMoniker": "HRMaster\\DepartmentList.cs",
+              "ToolTip": "C:\\Users\\Ahmad\\Downloads\\WinFormsProjects\\HRMaster\\HRMaster\\DepartmentList.cs [Design]",
+              "RelativeToolTip": "HRMaster\\DepartmentList.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T11:48:38.859Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Dashboard.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Ahmad\\Downloads\\WinFormsProjects\\HRMaster\\HRMaster\\Dashboard.cs",
+              "RelativeDocumentMoniker": "HRMaster\\Dashboard.cs",
+              "ToolTip": "C:\\Users\\Ahmad\\Downloads\\WinFormsProjects\\HRMaster\\HRMaster\\Dashboard.cs [Design]",
+              "RelativeToolTip": "HRMaster\\Dashboard.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-07T18:48:03.398Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Dashboard.cs",
+              "DocumentMoniker": "C:\\Users\\Ahmad\\Downloads\\WinFormsProjects\\HRMaster\\HRMaster\\Dashboard.cs",
+              "RelativeDocumentMoniker": "HRMaster\\Dashboard.cs",
+              "ToolTip": "C:\\Users\\Ahmad\\Downloads\\WinFormsProjects\\HRMaster\\HRMaster\\Dashboard.cs",
+              "RelativeToolTip": "HRMaster\\Dashboard.cs",
+              "ViewState": "AgIAAPYAAAAAAAAAAAAAAP8AAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-07T11:36:41.357Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Ahmad\\Downloads\\WinFormsProjects\\HRMaster\\HRMaster\\Program.cs",
+              "RelativeDocumentMoniker": "HRMaster\\Program.cs",
+              "ToolTip": "C:\\Users\\Ahmad\\Downloads\\WinFormsProjects\\HRMaster\\HRMaster\\Program.cs",
+              "RelativeToolTip": "HRMaster\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-06T21:09:02.55Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
